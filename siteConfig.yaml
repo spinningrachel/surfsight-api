@@ -11,7 +11,7 @@ logo: ./images/logo.png
 enableToc: true
 oasDefinitions:
   petstore: ./openapi/petstore.yaml
-  surfsight: ./openapi/open-api.yaml
+  surfsight: ./openapi/surfsight.yaml
   # add links to definitions in our API registry by using a fully qualified URL.
 stylesheets:
   - https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700&display=swap
