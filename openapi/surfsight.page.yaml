@@ -1,9 +1,9 @@
 type: reference-docs
-definitionId: petstore
+definitionId: surfsight
+label: Surfsight API Reference
 settings:
   generateCodeSamples:
     languages:
       - lang: curl
       - lang: JavaScript
       - lang: Node.js
-      

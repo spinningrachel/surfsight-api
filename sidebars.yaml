@@ -42,7 +42,10 @@ training:
     expanded: false
     pages:
       - page: openapi/reference.page.yaml/*
-
+  - group: Surfsight reference
+    expanded: false
+    pages:
+      - page: openapi/surfsight.page.yaml/*
   - group: Admin
     expanded: true
     pages:
