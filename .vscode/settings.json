@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "redocly"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
